@@ -1,7 +1,7 @@
 ## [🔙 repo-views-counter](https://github.com/PVUL/repo-views-counter)
 
-### :octocat: [resume](https://github.com/PVUL/resume)
-![Image of repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/graph/527650736/large/year.png)
+### :octocat: [pvul](https://github.com/PVUL/pvul)
+![Image of repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/graph/315795833/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/3/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2023/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>29</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2022/8/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>27</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/527650736/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/week.md)
+[![Image of repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/315795833/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/315795833/week.md)
 ```readme
-[![Image of repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/527650736/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/week.md)
+[![Image of repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/315795833/badge.svg)](https://github.com/PVUL/repo-views-counter/blob/master/readme/315795833/week.md)
 ```
 ### Header
-# resume [<img alt="Image of repo-views-counter" src="https://github.com/PVUL/repo-views-counter/blob/master/graph/527650736/small/year.png" height="20">](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/year.md)
+# pvul [<img alt="Image of repo-views-counter" src="https://github.com/PVUL/repo-views-counter/blob/master/graph/315795833/small/year.png" height="20">](https://github.com/PVUL/repo-views-counter/blob/master/readme/315795833/year.md)
 ```readme
-# resume [<img alt="Image of repo-views-counter" src="https://github.com/PVUL/repo-views-counter/blob/master/graph/527650736/small/year.png" height="20">](https://github.com/PVUL/repo-views-counter/blob/master/readme/527650736/year.md)
+# pvul [<img alt="Image of repo-views-counter" src="https://github.com/PVUL/repo-views-counter/blob/master/graph/315795833/small/year.png" height="20">](https://github.com/PVUL/repo-views-counter/blob/master/readme/315795833/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
