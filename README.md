@@ -21,28 +21,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/PVUL/repo-views-counter/tree/master/readme/315795833/year.md">
-				pvul
-			</a>
-		</td>
-		<td>
-			2024/3/20 12:04 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/PVUL/repo-views-counter/raw/master/graph/315795833/small/year.png" height="20"> 11
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/PVUL/repo-views-counter/tree/master/readme/527650736/year.md">
 				resume
 			</a>
 		</td>
 		<td>
-			2024/3/20 12:04 AM UTC
+			2024/3/21 12:05 AM UTC
 		</td>
 		<td>
 			68
@@ -53,7 +37,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/3/22 6:02 PM UTC</i></small>
+<small><i>Last updated on 2024/3/23 12:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
