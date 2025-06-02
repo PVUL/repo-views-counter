@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:31 AM UTC
+			2025/5/31 6:02 AM UTC
 		</td>
 		<td>
-			36
+			37
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/PVUL/repo-views-counter/raw/master/graph/315795833/small/year.png" height="20"> 46
+			<img alt="Response time graph" src="https://github.com/PVUL/repo-views-counter/raw/master/graph/315795833/small/year.png" height="20"> 47
 		</td>
 	</tr>
 	<tr>
@@ -42,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:31 AM UTC
+			2025/5/31 6:02 AM UTC
 		</td>
 		<td>
-			93
+			94
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/PVUL/repo-views-counter/raw/master/graph/527650736/small/year.png" height="20"> 227
+			<img alt="Response time graph" src="https://github.com/PVUL/repo-views-counter/raw/master/graph/527650736/small/year.png" height="20"> 228
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/15 12:03 PM UTC</i></small>
+<small><i>Last updated on 2025/6/2 6:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
